@@ -1,2 +1,2 @@
 # Demaq BackEnd
-Some changes
+A Backend application for audio editing software
